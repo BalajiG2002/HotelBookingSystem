@@ -24,8 +24,6 @@ import com.example.demo.servise.CustomerServise;
 import com.example.demo.servise.HotelServise;
 import com.example.demo.servise.RoomServise;
 
-import javafx.application.HostServices;
-
 @Controller
 public class Hotelcontroller {
 	@Autowired
